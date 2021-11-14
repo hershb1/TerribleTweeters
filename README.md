@@ -1,6 +1,8 @@
 # TerribleTweeters
 This is my version of "Terrible Tweeters", a spin off the popular Angry Birds game and Jason Weimann's tutorial on YouTube. Created using Unity Editor and C# in Microsoft Visual Studio.
 
+Play it here: (https://play.unity.com/mg/other/webgl-builds-22607)
+
 **~Controls** 
 - Pull the bird back with your mouse and navigate its direction by your movements.
 
